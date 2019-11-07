@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PokemonDatabase</string>
+    <string name="id">id</string>
+    <string name="nombre">Nombre</string>
+    <string name="tipo">Tipo</string>
+    <string name="habilidad">Habilidad</string>
+    <string name="peso">Peso en kg.</string>
+    <string name="altura">Altura en m.</string>
+    <string name="img">Pulse sobre la imagen para añadir una foto del pokemon</string>
+    <string name="add">Añadir</string>
+    <string name="edit">Editar</string>
+
+
+</resources>
